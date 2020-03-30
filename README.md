@@ -11,4 +11,4 @@ For running with autograder, type:
 
 http://ai.berkeley.edu/search.html
 
-This project is part of the course: Artificial Intelligence , Winter of 2019. University of Athens, DiT.
+*This project is part of the course: Artificial Intelligence , Winter of 2019. University of Athens, DiT.*
