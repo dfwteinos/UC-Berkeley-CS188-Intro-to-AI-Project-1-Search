@@ -5,7 +5,7 @@ Implementation of Algorithms: DFS,BFS,UCS,A* and some Heuristic Functions using 
 
 For running with autograder, type:
 
-``` autograder.py ```
+``` python autograder.py ```
 
 ### Further Informations about this Project
 
